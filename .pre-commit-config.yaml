@@ -3,7 +3,7 @@ repos:
     hooks:
       - id: code-styling-and-formatting
         name: Code styling and formatting
-        entry: ./gradlew spotlessApply
+        entry: ./gradlew spotlessApply && git add -u
         language: system
         files: \.(kt|kts|java|gradle|toml)$
         pass_filenames: false
