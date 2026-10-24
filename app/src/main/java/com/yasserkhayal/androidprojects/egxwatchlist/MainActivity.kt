@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.yasserkhayal.androidprojects.egxwatchlist.ui.theme.EGXWatchlistTheme
+import com.yasserkhayal.androidprojects.designsystem.ui.theme.EGXWatchlistTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

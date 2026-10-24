@@ -1,10 +1,10 @@
-package com.yasserkhayal.androidprojects.egxwatchlist.ui.theme
+package com.yasserkhayal.androidprojects.designsystem.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.googlefonts.Font
 import androidx.compose.ui.text.googlefonts.GoogleFont
-import com.yasserkhayal.androidprojects.egxwatchlist.R
+import com.yasserkhayal.androidprojects.designsystem.R
 
 val provider = GoogleFont.Provider(
     providerAuthority = "com.google.android.gms.fonts",

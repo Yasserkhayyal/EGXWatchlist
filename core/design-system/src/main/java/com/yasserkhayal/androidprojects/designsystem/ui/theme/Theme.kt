@@ -1,4 +1,4 @@
-package com.yasserkhayal.androidprojects.egxwatchlist.ui.theme
+package com.yasserkhayal.androidprojects.designsystem.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
